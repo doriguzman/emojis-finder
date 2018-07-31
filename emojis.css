@@ -1,0 +1,29 @@
+#container, #list{
+    text-align: center;
+    margin: 0 auto; 
+    width: 300px
+}
+
+ul{
+    margin: 2px;
+    padding:0;
+    list-style: none;
+    text-align:center;
+}
+
+li{
+    text-align: center;
+    border: 1px dotted gray;
+    border-radius: 7px; 
+    width: 200px;
+    margin:0 auto
+}
+    
+#container{
+    border: 1px solid black;
+    background-color: lightgrey
+}
+
+#search{
+    background-color: lightblue
+}
